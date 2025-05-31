@@ -1,4 +1,4 @@
-# 🐴 Mustang Makeover Project
+## 🐴 Mustang Makeover Project
 
 ## 📍 The Issue
 
@@ -54,7 +54,11 @@ Special thanks to **Michael and Leona Jimenez of MLJ Ranch** for:
 
 ---
 
-### 🐾 Why It Matters
+### Why It Matters
 
 This wasn’t just about horses—it was about perserverance, consistency, trust, and transformation.  
 Skills I carry forward into everything I do.
+
+<p align="center">
+  <img src="media.jpg" alt="Lark Mustang Makeover" width="50%" />
+</p>
